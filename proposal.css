@@ -125,8 +125,8 @@ body{
 				opacity: 0;
 }
 #hang{
-		transform: translateY(-4em);		
-		opacity: 0;
+				transform: translateY(-3em);		
+				opacity: 0;
 }
 #frog{
 				transform: translateY(-4em);	
